@@ -3,4 +3,4 @@ I build a caesar cipher encryption and decryption in python !. Caesar Cipher is 
 
 # 
 # Download file and run in terminal
-example : python project1.py
+example : python caesar_cipher.py
